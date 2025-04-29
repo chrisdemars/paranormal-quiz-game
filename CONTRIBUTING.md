@@ -1,4 +1,4 @@
-# Contributing to the Birds of a Feather Quiz CLI
+# Contributing to the Paranormal Quiz CLI
 
 Thank you for your interest in contributing to the Paranormal Quiz CLI! This document provides guidelines and steps for contributing to this open source project.
 
